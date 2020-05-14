@@ -11,10 +11,17 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style type="text/css">
+body {
+	background-image:
+		url('https://mrandmrshalal.com/wp-content/uploads/2018/07/best-places-to-travel-in-the-world-for-muslims-featured-700x467.jpg')
+}
+</style>
+	</head>
 
 
 <body>
-<h1>Welcome to DevOps Amit..!!</h1>
+<h1>Welcome to the world of DevOps......</h1>
 	
 
 </body>
